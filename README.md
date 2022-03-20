@@ -1,9 +1,10 @@
-# NaPoGenMo2021
+# NaPoGenMo2022
 
-National Poetry Generation Month 2021 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim.
+National Poetry Generation Month 2022 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim.
 
-This is the 2021 edition. For previous years, see:
+This is the 2022 edition. For previous years, see:
 
+* [2021](https://github.com/NaPoGenMo/NaPoGenMo2021)
 * [2017](https://github.com/NaPoGenMo/NaPoGenMo2017)
 * [2016](https://github.com/NaPoGenMo/NaPoGenMo2016)
 * [2015](https://github.com/NaPoGenMo/NaPoGenMo2015)
@@ -13,7 +14,6 @@ This is the 2021 edition. For previous years, see:
 Spend the month of April writing code that generates a poem.
 
 Repeat.
-
 
 ## The Rules
 
@@ -27,13 +27,11 @@ Please try to respect copyright. I'm not going to police it, as ultimately it's 
 
 This activity starts at 12:01am GMT on Apr 1st and ends at 12:01am GMT May 1st.
 
-
 ## How to Participate
 
 [Open an issue](../../issues/new) on this repo and declare your intent to participate. You may continually update the issue as you work over the course of the month. Feel free to post dev diaries, sample output, etc.
 
 Also feel free to comment on other participants' issues.
-
 
 ## Resources
 
@@ -42,7 +40,8 @@ There's an [open issue](../../issues/1) where you can add resources (libraries, 
 There are already a ton of resources on the old resources threads from
 [2015](https://github.com/NaPoGenMo/NaPoGenMo2015/issues/1),
 [2016](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1),
-and [2017](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1).
+[2017](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1),
+and [2021](https://github.com/NaPoGenMo/NaPoGenMo2021/issues/1).
 
 ## That's It
 
