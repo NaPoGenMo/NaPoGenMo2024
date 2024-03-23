@@ -1,9 +1,10 @@
-# NaPoGenMo2023
+# NaPoGenMo2024
 
-National Poetry Generation Month 2023 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim.
+National Poetry Generation Month 2024 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim.
 
-This is the 2023 edition. For previous years, see:
+This is the 2024 edition. For previous years, see:
 
+* [2023](https://github.com/NaPoGenMo/NaPoGenMo2023)
 * [2022](https://github.com/NaPoGenMo/NaPoGenMo2022)
 * [2021](https://github.com/NaPoGenMo/NaPoGenMo2021)
 * [2017](https://github.com/NaPoGenMo/NaPoGenMo2017)
@@ -42,8 +43,9 @@ There are already a ton of resources on the old resources threads from
 [2015](https://github.com/NaPoGenMo/NaPoGenMo2015/issues/1),
 [2016](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1),
 [2017](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1),
-[2021](https://github.com/NaPoGenMo/NaPoGenMo2021/issues/1).
-and [2022](https://github.com/NaPoGenMo/NaPoGenMo2022/issues/1).
+[2021](https://github.com/NaPoGenMo/NaPoGenMo2021/issues/1),
+[2022](https://github.com/NaPoGenMo/NaPoGenMo2022/issues/1),
+and [2023](https://github.com/NaPoGenMo/NaPoGenMo2022/issues/1).
 
 ## That's It
 
